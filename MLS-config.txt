@@ -1,0 +1,24 @@
+MLS#show running-config
+Building configuration...
+
+Current configuration : 2178 bytes
+!
+version 16.3.2
+no service timestamps log datetime msec
+no service timestamps debug datetime msec
+no service password-encryption
+!
+hostname MLS
+!
+!
+no profinet
+!
+!
+!
+!
+!
+!
+no ip cef
+ip routing
+!
+ --More-- 
